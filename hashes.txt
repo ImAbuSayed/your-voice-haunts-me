@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Voice Haunts Me
+
+This log tracks the cryptographic history and versioning for the song **Your Voice Haunts Me** (your-voice-haunts-me).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T16:11:19.488893 | `v1` | `dccb04c9bc4c338b81485ff0644d122f8ac2add7e0856008b0e3eaab92b98e49` | `e411e81ead35b821a187df1dc677f415e24fa8fa5727ef7904eeeeaf5a04cb44` | `2026-06-09_your-voice-haunts-me-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

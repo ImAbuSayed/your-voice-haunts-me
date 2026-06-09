@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-voice-haunts-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Your Voice Haunts Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-voice-haunts-me/) |
+| **Get License** | [Get License For Your Voice Haunts Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-voice-haunts-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dccb04c9bc4c338b81485ff0644d122f8ac2add7e0856008b0e3eaab92b98e49` |
 | **Timestamp** | June 09, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
