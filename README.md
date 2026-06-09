@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-voice-haunts-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Your Voice Haunts Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-voice-haunts-me/) |
+| **Get License** | [Music Rights & Licensing for Your Voice Haunts Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-voice-haunts-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when you whisper close
+> A gentle flame that only midnight knows
+> Your breath against my skin is all I need
+> A quiet storm that brings me to my knees
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
